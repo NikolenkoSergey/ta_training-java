@@ -8,6 +8,7 @@ public class MainTest extends TestCase {
     @Test
     public void testEvenNumber() {
 
+
         int number = 2;
         assertEquals(true, Main.evenNumber(number));
     }
