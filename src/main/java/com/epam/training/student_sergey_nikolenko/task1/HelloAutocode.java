@@ -1,4 +1,4 @@
-package com.epam.training.student_sergey_nikolenko;
+package com.epam.training.student_sergey_nikolenko.task1;
 
 public class HelloAutocode {
 
