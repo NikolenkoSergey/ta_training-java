@@ -6,5 +6,4 @@ public class HelloAutocode {
         System.out.println("Hello, Autocode!");
     }
 
-
 }
