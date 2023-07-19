@@ -9,5 +9,4 @@ public class MeetAStranger {
         String str = scan.nextLine();
         System.out.println("Hello, " + str);
     }
-
 }
